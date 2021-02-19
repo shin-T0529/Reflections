@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d86fd441b1ac4b64893f6925e197029b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ErrorNotUsed: {instanceID: 0}
+  - ErrorNotHaving: {instanceID: 0}
+  - ScoreHave: {instanceID: 0}
+  - ScoreUse: {instanceID: 0}
+  - TimeHave: {instanceID: 0}
+  - TimeUse: {instanceID: 0}
+  - SE_ItemUse: {fileID: 8300000, guid: 0560a1b5a5645f443b9e1ef8e15d7784, type: 3}
+  - SE_ItemUseError: {fileID: 8300000, guid: 346b29a38a0126f4aacd6d07ac35eeaa, type: 3}
+  - SE_ItemUseReset: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
